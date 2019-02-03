@@ -1,20 +1,14 @@
 {
   "name": "Segah A. Mir",
   "email": "segah@caura.co",
-  "description": "Consulted a wide variety of companies, of various sizes, such as: Duetto Research (2013), Earnest (2014), Strava (2014), Docker (2016), Digital Ocean (2016), RealSelf (2017), Procore (2017), and others. Former Looker employee.<br/><br/>What is unique about having had access to data within so many companies is that Segah can tell a lot about organizations just by looking at their data.",
+  "description": "Consulted a wide variety of companies, of various sizes, such as: Duetto Research (2013), Earnest (2014), Strava (2014), Docker (2016), Digital Ocean (2016), RealSelf (2017), Procore (2017), and others. Former Looker employee.",
   "url": "https://segah.me",
   "teams": {
     "caura": {
       "name": "Caura & Co.",
       "email": "team@caura.co",
-      "description": "Subscription-based boutique consulting services",
+      "description": "Boutique consulting services in Big Data",
       "url": "https://www.caura.co"
-    },
-    "payments": {
-      "name": "PaymentsBI Consulting",
-      "email": "team@paymentsbi.consulting",
-      "description": "Boutique services in Big Data Analytics in Payments and FinTech",
-      "url": "https://paymentsbi.consulting"
     }
   }
 }
