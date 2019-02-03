@@ -1,0 +1,14 @@
+{
+  "name": "Tristan Handy",
+  "email": "tristan@fishtownanalytics.com",
+  "description": "CEO of Dbt and Fishtown Analytics, Blogger, Marketer",
+  "url": "https://fishtownanalytics.com",
+  "teams": {
+    "fishtownanalytics": {
+      "name": "Fishtown Analytics",
+      "email": "contact@fishtownanalytics.com",
+      "description": "Consulting",
+      "url": "https://www.fishtownanalytics.com"
+    }
+  }
+}
